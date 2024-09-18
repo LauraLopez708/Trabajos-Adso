@@ -1,0 +1,4 @@
+1,carburador,3,250000.0
+1,carburador,3,250000.0
+1,Llantas,5,350000.0
+1,Llantas,5,350000.0

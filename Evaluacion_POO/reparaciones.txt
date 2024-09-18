@@ -1,0 +1,1 @@
+1, Vehiculo[placa=ASD123, marca=Logan, modelo=2023, listaReparaciones=[app.Reparacion@635eaaf1]], [Repuesto[id=1, nombre=Llantas, cantidadDisponible=5, precio=350000.0]], false
